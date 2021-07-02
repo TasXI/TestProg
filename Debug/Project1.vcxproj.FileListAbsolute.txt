@@ -1,0 +1,2 @@
+D:\Paracticman\Project1\Debug\Project1.exe
+D:\Paracticman\Project1\Debug\Project1.pdb
