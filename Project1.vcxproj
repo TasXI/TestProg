@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClCompile Include="Project.c" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="find_dot.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
